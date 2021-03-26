@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! Im MelodicaMelodys but you can just call me Melody, Im a little weirdo whos trying their best to code in html/css/java and python. though im not very good at it. 
 
 <!--
 **MelodicaMelodys/MelodicaMelodys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
